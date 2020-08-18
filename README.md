@@ -22,7 +22,7 @@ engine that I had no prior experience using, but for the purposes of the project
 2. Unzip the downloaded file, open the "dist" folder, then open MyGame.jar.
 3. A settings window will open. You can change them as you want (they're fine the way they are), then click "Continue".
 4. A new window with the simulation will open up. This may take several seconds to several minutes depending on your machine.
-5. If you've played any keyboard-and-mouse first-person shooter game, the controls should be intuitive. Use WASD to move, space to jump, and the mouse to look around.
+5. If you've played any keyboard-and-mouse first-person game (like Minecraft), the controls should be intuitive. Use WASD to move, space to jump, and the mouse to look around.
 6. NOTE: To exit the simulation, simply press the "escape" key on your keyboard.
 ## How to View the Source Code
 1. Open the "src" folder.
